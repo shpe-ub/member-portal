@@ -1,0 +1,7 @@
+-- Tables, triggers, functions and RLS policies. See SPEC.md section 4.
+--
+-- TODO: export the live schema from the Supabase dashboard and paste it here.
+-- SPEC.md warns that some policies were added after the last export — check
+-- that the read policies on major/ethnicity, the member_ethnicity policies,
+-- the unique constraint on major.name and the column grant on member_private
+-- are all included.
