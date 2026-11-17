@@ -1,7 +1,6 @@
 # SHPE UB Member Portal
 
 Members create an account, fill in a profile, and browse a directory of other members.
-**[SPEC.md](SPEC.md) is the source of truth** — read it before you write code.
 
 | Folder | What | Runs on |
 | --- | --- | --- |
